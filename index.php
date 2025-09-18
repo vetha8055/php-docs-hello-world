@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>VETHA License Renewal Portal</title>
+    <title>VETHA Vehicle License Renewal Portal</title>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -87,7 +87,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <div class="container">
         <h1>Welcome to VETHA License Renewal Portal</h1>
-        <div class="banner">Practice Session – Azure Administrator (AZ-104)</div>
+        <div class="banner">Practice Session – ONLY FOR TESTING</div>
 
         <form method="POST" action="">
             <label for="license_id">License ID:</label>
