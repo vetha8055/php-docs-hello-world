@@ -86,7 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to VETHA License Renewal Portal</h1>
+        <h1>Welcome to VETHA Vehicle License Renewal Portal</h1>
         <div class="banner">Practice Session – ONLY FOR TESTING</div>
 
         <form method="POST" action="">
